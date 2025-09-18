@@ -28,3 +28,6 @@ POWERBI
 -<a href="https://github.com/Margaret01hub/Data-Analysis-Project/blob/main/DANO%20AIRLINE%20DASHBOARD.png">Dashboard</a>
 
 # DASHBOARD
+<img width="1313" height="741" alt="DANO AIRLINE DASHBOARD" src="https://github.com/user-attachments/assets/a7bcfa9a-b715-44e9-965c-6eb863046869" />
+
+
