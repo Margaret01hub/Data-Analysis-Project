@@ -30,4 +30,16 @@ POWERBI
 # DASHBOARD
 <img width="1313" height="741" alt="DANO AIRLINE DASHBOARD" src="https://github.com/user-attachments/assets/a7bcfa9a-b715-44e9-965c-6eb863046869" />
 
+## Recommendations for Leadership Team
+1.	Improvement in Punctuality and reduction in delay time.
+2.	Provide elderly and family friendly services or programs for the elderly, younger group and the men.
+3.	Improve economy class and personal travelers’ flight experience.
+4.	Make reasonable offers to new passengers to better increase passenger loyalty.
+5.	Provide a complaint officer or agent for passengers’ issues and complaints.
+6.	A thorough orientation of better customer service and supervision of the staff.
+## Conclusion
+Addressing operational issues like arrival and departure delay, providing and improving services for certain groups of the passengers, overall improvement in customer service, will restore and increase passengers’ satisfaction.
+
+
+
 
